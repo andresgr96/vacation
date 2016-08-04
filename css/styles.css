@@ -1,0 +1,22 @@
+.intro-img {
+  max-height: 100%;
+  width: 100%;
+  object-fit:cover;
+
+}
+
+.item{
+  height: 600px;
+  width: 100%;
+}
+
+#myCarousel {
+  height: 600px;
+  padding: auto;
+  width: 100%;
+}
+.carousel-inner{
+  padding: none;
+  width: 100%;
+}
+.carousel-inner > .co
