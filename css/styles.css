@@ -22,3 +22,12 @@
 .bro{
   padding: 20px;
 }
+.info{
+  text-align: justify;
+}
+
+.glyphicon {
+  font-size: 3em;
+  display: block;
+  text-align: center;
+}
